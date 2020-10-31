@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Server>
+    <Service name="Catalina">
+        <Connector port="18188"/>
+<!--        <Connector port="18166"/>-->
+<!--        <Connector port="18186"/>-->
+        <Engine defaultHost="localhost">
+            <!--使用localhost作为域名!-->
+            <Host name="localhost">
+                <Context path="/b" docBase="F:/workplace-idea/diytomcat/b"/>
+                <Context path="/j2ee" docBase="F:/workplace-idea/diytomcat/j2ee"/>
+                <Context path="/webtest" docBase="F:/workplace-idea/webtest" reloadable = "true"/>
+            </Host>
+        </Engine>
+    </Service>
+</Server>

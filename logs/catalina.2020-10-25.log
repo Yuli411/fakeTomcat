@@ -1,0 +1,2098 @@
+10 25, 2020 00:00:09 AM Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 00:00:09 AM Request parseHttpRequest
+INFO : uri :
+10 25, 2020 00:00:09 AM Request parseHttpRequest
+INFO : argument :name=joe
+10 25, 2020 00:00:09 AM Request convertToMap
+INFO : key :name
+10 25, 2020 00:00:09 AM Request convertToMap
+INFO : value :joe
+10 25, 2020 00:00:42 AM Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 00:00:42 AM Request parseHttpRequest
+INFO : uri :
+10 25, 2020 00:00:42 AM Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 00:00:42 AM Request convertToMap
+INFO : key :name
+10 25, 2020 00:00:42 AM Request convertToMap
+INFO : value :joe
+10 25, 2020 00:00:42 AM Request convertToMap
+INFO : key :name
+10 25, 2020 00:00:42 AM Request convertToMap
+INFO : value :pipi
+10 25, 2020 00:00:42 AM Request convertToMap
+INFO : key :aaa
+10 25, 2020 00:00:42 AM Request convertToMap
+INFO : value :ccc
+10 25, 2020 00:34:22 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 00:34:22 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 00:34:22 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 00:34:22 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 00:34:22 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 00:34:22 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 00:34:22 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 00:34:22 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 00:34:22 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 00:34:36 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 00:34:36 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 00:34:36 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 00:34:36 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:34:36 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 00:34:36 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:34:36 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 00:34:36 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 00:34:36 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 00:35:07 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 00:35:07 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 00:35:07 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 00:35:07 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 00:35:07 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 00:35:07 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 00:35:07 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 00:35:07 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 00:35:07 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 00:35:10 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 00:35:10 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 00:35:10 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 00:35:10 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:35:10 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 00:35:10 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:35:10 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 00:35:10 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 00:35:10 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 00:36:12 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 00:36:12 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 00:36:12 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 00:36:12 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 00:36:12 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 00:36:12 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 00:36:12 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 00:36:12 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 00:36:12 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 00:36:15 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 00:36:15 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 00:36:15 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 00:36:15 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:36:15 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 00:36:15 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:36:15 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 00:36:15 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 00:36:15 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 00:37:00 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 00:37:00 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 00:37:00 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 00:37:00 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 00:37:00 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 00:37:00 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 00:37:00 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 00:37:00 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 00:37:00 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 00:37:02 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 00:37:02 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 00:37:02 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 00:37:02 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:37:02 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 00:37:02 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:37:02 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 00:37:02 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 00:37:02 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 00:41:53 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 00:41:53 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 00:41:53 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 00:41:53 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 00:41:53 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 00:41:53 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 00:41:53 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 00:41:53 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 00:41:53 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 00:41:56 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 00:41:56 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 00:41:56 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 00:41:56 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:41:56 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 00:41:56 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:41:56 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 00:41:56 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 00:41:56 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 00:44:28 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 00:44:28 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 00:44:28 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 00:44:28 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 00:44:28 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 00:44:28 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 00:44:28 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 00:44:28 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 00:44:28 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 00:44:30 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 00:44:30 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 00:44:30 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 00:44:30 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:44:30 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 00:44:30 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:44:30 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 00:44:30 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 00:44:30 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 00:52:30 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 00:52:30 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 00:52:30 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 00:52:30 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 00:52:30 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 00:52:30 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 00:52:30 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 00:52:30 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 00:52:30 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 00:52:34 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 00:52:34 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 00:52:34 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 00:52:34 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:52:34 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 00:52:34 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:52:34 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 00:52:34 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 00:52:34 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 00:56:02 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 00:56:02 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 00:56:02 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 00:56:02 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 00:56:02 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 00:56:02 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 00:56:02 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 00:56:02 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 00:56:02 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 00:56:04 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 00:56:04 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 00:56:04 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 00:56:04 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:56:04 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 00:56:04 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:56:04 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 00:56:04 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 00:56:04 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 00:56:41 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 00:56:41 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 00:56:41 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 00:56:41 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 00:56:41 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 00:56:41 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 00:56:41 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 00:56:41 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 00:56:41 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 00:56:45 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 00:56:45 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 00:56:45 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 00:56:45 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:56:45 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 00:56:45 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:56:45 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 00:56:45 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 00:56:45 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 00:57:33 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 00:57:33 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 00:57:33 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 00:57:33 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 00:57:33 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 00:57:33 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 00:57:33 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 00:57:33 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 00:57:33 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 00:57:38 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 00:57:38 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 00:57:38 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 00:57:38 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:57:38 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 00:57:38 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 00:57:38 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 00:57:38 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 00:57:38 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 01:00:00 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 01:00:00 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 01:00:00 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 01:00:00 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 01:00:00 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 01:00:00 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 01:00:00 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 01:00:00 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 01:00:00 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 01:00:03 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 01:00:03 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 01:00:03 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 01:00:03 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:00:03 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 01:00:03 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:00:03 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 01:00:03 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 01:00:03 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 01:00:13 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 01:00:13 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 01:00:13 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 01:00:13 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:00:13 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 01:00:13 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:00:13 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 01:00:13 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 01:00:13 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 01:00:24 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 01:00:24 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 01:00:24 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 01:00:24 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:00:24 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 01:00:24 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:00:24 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 01:00:24 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 01:00:24 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 01:00:36 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 01:00:36 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 01:00:36 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 01:00:36 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:00:36 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 01:00:36 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:00:36 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 01:00:36 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 01:00:36 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 01:00:38 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 01:00:38 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 01:00:38 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 01:00:38 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:00:38 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 01:00:38 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:00:38 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 01:00:38 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 01:00:38 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 01:00:39 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 01:00:39 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 01:00:39 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 01:00:39 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:00:39 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 01:00:39 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:00:39 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 01:00:39 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 01:00:39 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 01:00:41 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 01:00:41 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 01:00:41 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 01:00:41 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:00:41 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 01:00:41 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:00:41 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 01:00:41 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 01:00:41 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 01:00:56 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 01:00:56 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 01:00:56 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 01:00:56 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 01:00:56 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 01:00:56 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 01:00:56 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 01:00:56 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 01:00:56 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 01:01:00 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 01:01:00 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 01:01:00 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 01:01:00 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:01:00 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 01:01:00 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:01:00 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 01:01:00 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 01:01:00 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 01:03:40 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 01:03:40 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 01:03:40 AM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 01:03:40 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 01:03:40 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 01:03:40 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 01:03:40 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 01:03:40 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 01:03:40 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 01:03:47 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 01:03:47 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 01:03:47 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 01:03:47 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:03:47 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 01:03:47 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:03:47 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 01:03:47 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 01:03:47 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 01:03:49 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 01:03:49 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 01:03:49 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 01:03:49 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:03:49 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 01:03:49 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:03:49 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 01:03:49 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 01:03:49 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 01:03:50 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 01:03:50 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 01:03:50 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 01:03:50 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:03:50 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 01:03:50 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:03:50 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 01:03:50 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 01:03:50 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 01:04:06 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 01:04:06 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 01:04:06 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 01:04:06 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:04:06 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 01:04:06 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:04:06 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 01:04:06 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 01:04:06 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 01:04:18 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 01:04:18 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 01:04:18 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 01:04:18 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:04:18 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 01:04:18 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:04:18 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 01:04:18 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 01:04:18 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 01:04:18 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 01:04:18 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 01:04:18 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=joe&name=pipi&aaa=ccc
+10 25, 2020 01:04:18 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:04:18 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :joe
+10 25, 2020 01:04:18 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 01:04:18 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :pipi
+10 25, 2020 01:04:18 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aaa
+10 25, 2020 01:04:18 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :ccc
+10 25, 2020 18:19:31 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 18:19:31 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 18:19:31 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 18:19:31 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 18:19:31 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 18:19:31 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 18:19:31 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 18:19:31 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 18:19:31 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 18:20:45 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 18:20:45 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :
+10 25, 2020 18:20:45 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :nale=dd
+10 25, 2020 18:20:45 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :nale
+10 25, 2020 18:20:45 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 18:23:07 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 18:23:07 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 18:23:07 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 18:23:07 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 18:23:07 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 18:23:07 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 18:23:07 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 18:23:07 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 18:23:07 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 18:23:22 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 18:23:22 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :ddd
+10 25, 2020 18:23:22 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=dede
+10 25, 2020 18:23:22 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 18:23:22 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dede
+10 25, 2020 18:23:39 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 18:23:39 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :ddd
+10 25, 2020 18:23:39 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=dede
+10 25, 2020 18:23:39 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 18:23:39 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dede
+10 25, 2020 18:24:21 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 18:24:21 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 18:24:21 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 18:24:21 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 18:24:21 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 18:24:21 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 18:24:21 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 18:24:21 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 18:24:22 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 18:24:25 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 18:24:25 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :ddd
+10 25, 2020 18:24:25 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=dede
+10 25, 2020 18:24:25 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 18:24:25 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dede
+10 25, 2020 18:26:52 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 18:26:52 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 18:26:52 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 18:26:52 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 18:26:52 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 18:26:52 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 18:26:52 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 18:26:52 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 18:26:52 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 18:27:43 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 18:27:43 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 18:27:43 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 18:27:43 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 18:27:43 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 18:27:43 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 18:27:43 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 18:27:43 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 18:27:43 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 18:27:46 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 18:27:46 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :ddd
+10 25, 2020 18:27:46 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=dede
+10 25, 2020 18:27:46 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 18:27:46 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dede
+10 25, 2020 18:27:46 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 18:59:56 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 18:59:56 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 18:59:56 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 18:59:56 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 18:59:56 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 18:59:56 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 18:59:56 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 18:59:56 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 18:59:56 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 19:00:08 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 19:00:08 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :ddd
+10 25, 2020 19:00:08 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=dede
+10 25, 2020 19:00:08 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 19:00:08 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dede
+10 25, 2020 19:00:13 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 19:00:13 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :ddd
+10 25, 2020 19:00:13 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :name=dede
+10 25, 2020 19:00:13 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :name
+10 25, 2020 19:00:13 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dede
+10 25, 2020 19:05:51 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 19:05:51 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 19:05:51 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 19:05:51 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 19:05:51 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 19:05:51 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 19:05:51 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 19:05:51 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 19:05:51 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 19:06:34 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 19:06:34 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :a.html
+10 25, 2020 19:06:34 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 19:06:34 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 19:06:34 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 19:06:35 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 19:07:38 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 19:07:38 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 19:07:38 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 19:07:38 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 19:07:38 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 19:07:38 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 19:07:38 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 19:07:38 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 19:07:38 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 19:07:43 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 19:07:43 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :a.html
+10 25, 2020 19:07:43 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 19:07:43 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 19:07:43 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 19:07:47 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 19:07:47 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :a.html
+10 25, 2020 19:07:47 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 19:07:47 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 19:07:47 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 19:37:48 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 19:37:48 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 19:37:48 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 19:37:48 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 19:37:48 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 19:37:48 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 19:37:48 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 19:37:48 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 19:37:48 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 19:37:53 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 19:37:53 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :a.html
+10 25, 2020 19:37:53 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 19:37:53 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 19:37:53 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 19:37:53 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 19:38:11 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 19:38:11 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :a.html
+10 25, 2020 19:38:11 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 19:38:11 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 19:38:11 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 19:38:11 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 19:38:13 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 19:38:13 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :a.html
+10 25, 2020 19:38:13 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 19:38:13 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 19:38:13 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 19:38:13 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 19:38:14 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 19:38:14 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :a.html
+10 25, 2020 19:38:14 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 19:38:14 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 19:38:14 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 19:38:14 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 19:38:14 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 19:38:14 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :a.html
+10 25, 2020 19:38:14 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 19:38:14 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 19:38:14 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 19:38:14 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 19:38:42 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 19:38:42 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :timeConsume.html
+10 25, 2020 19:38:42 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 19:38:42 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 19:38:42 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 19:38:43 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:16:39 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 20:16:39 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 20:16:39 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 20:16:39 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 20:16:39 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 20:16:39 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 20:16:39 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 20:16:39 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 20:16:39 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 20:16:53 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:16:53 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :other/index.html
+10 25, 2020 20:16:53 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:16:53 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:16:53 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:17:17 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:17:17 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :a.html
+10 25, 2020 20:17:17 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:17:17 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:17:17 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:17:17 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:27:21 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 20:27:21 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 20:27:21 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 20:27:21 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 20:27:21 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 20:27:21 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 20:27:21 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 20:27:21 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 20:27:21 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 20:27:28 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:27:28 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :a.html
+10 25, 2020 20:27:28 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:27:28 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:27:28 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:28:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 20:28:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 20:28:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 20:28:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 20:28:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 20:28:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 20:28:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 20:28:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 20:28:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 20:28:31 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:28:31 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :a.html
+10 25, 2020 20:28:31 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:28:31 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:28:31 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:28:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 20:30:19 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 20:30:19 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 20:30:19 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 20:30:19 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 20:30:19 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 20:30:19 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 20:30:19 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 20:30:19 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 20:30:19 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 20:30:23 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:30:23 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :a.html
+10 25, 2020 20:30:23 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:30:23 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:30:23 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:30:23 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 20:30:23 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :a.html
+10 25, 2020 20:30:23 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:30:23 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 20:30:23 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :favicon.ico
+10 25, 2020 20:30:58 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:30:58 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :a.html
+10 25, 2020 20:30:58 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:30:58 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:30:58 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:30:58 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 20:30:58 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :a.html
+10 25, 2020 20:30:58 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:30:58 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 20:30:58 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :favicon.ico
+10 25, 2020 20:31:12 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:31:12 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :a.html
+10 25, 2020 20:31:12 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:31:12 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:31:12 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:31:12 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 20:31:12 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :a.html
+10 25, 2020 20:31:12 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:31:12 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 20:31:12 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :favicon.ico
+10 25, 2020 20:31:26 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:31:26 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :a.html
+10 25, 2020 20:31:26 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:31:26 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:31:26 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:31:26 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 20:31:26 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :a.html
+10 25, 2020 20:31:26 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:31:26 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 20:31:26 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :favicon.ico
+10 25, 2020 20:31:38 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:31:38 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :ssssss/a.html
+10 25, 2020 20:31:38 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:31:38 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:31:38 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:31:38 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :6
+10 25, 2020 20:31:38 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :ssssss
+10 25, 2020 20:37:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 20:37:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 20:37:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 20:37:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 20:37:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 20:37:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 20:37:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 20:37:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 20:37:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 20:37:30 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:37:30 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :ssssss/a.html
+10 25, 2020 20:37:30 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:37:30 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:37:30 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:37:30 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :6
+10 25, 2020 20:37:30 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/ssssss
+10 25, 2020 20:37:30 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:37:30 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 20:37:30 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/
+10 25, 2020 20:38:09 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:38:09 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :ssssss/a.html
+10 25, 2020 20:38:09 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:38:09 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:38:09 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:38:09 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :6
+10 25, 2020 20:38:09 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/ssssss
+10 25, 2020 20:38:10 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:38:10 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 20:38:10 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/
+10 25, 2020 20:39:03 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 20:39:03 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 20:39:03 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 20:39:03 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 20:39:03 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 20:39:03 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 20:39:03 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 20:39:03 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 20:39:03 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 20:39:05 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:39:05 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :ssssss/a.html
+10 25, 2020 20:39:05 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:39:05 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:39:05 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:39:05 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :6
+10 25, 2020 20:39:05 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :a.html
+10 25, 2020 20:39:05 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/ssssss
+10 25, 2020 20:39:05 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:39:05 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 20:39:05 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :favicon.ico
+10 25, 2020 20:39:05 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/
+10 25, 2020 20:39:55 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 20:39:55 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 20:39:55 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 20:39:55 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 20:39:55 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 20:39:55 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 20:39:55 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 20:39:55 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 20:39:55 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 20:40:07 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:40:07 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :other/index.html
+10 25, 2020 20:40:07 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:40:07 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:40:07 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:40:07 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :5
+10 25, 2020 20:40:07 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :index.html
+10 25, 2020 20:40:07 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/other
+10 25, 2020 20:43:02 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 20:43:02 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 20:43:02 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 20:43:02 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 20:43:02 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 20:43:02 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 20:43:02 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 20:43:02 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 20:43:02 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 20:43:04 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:43:04 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :other/index.html
+10 25, 2020 20:43:04 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:43:04 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:43:04 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:43:04 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :5
+10 25, 2020 20:43:04 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :index.html
+10 25, 2020 20:43:04 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/other
+10 25, 2020 20:43:07 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:43:07 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :other/index.html
+10 25, 2020 20:43:07 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:43:07 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:43:07 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:43:07 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :5
+10 25, 2020 20:43:07 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :index.html
+10 25, 2020 20:43:07 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/other
+10 25, 2020 20:43:12 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:43:12 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :other/index.html
+10 25, 2020 20:43:12 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:43:12 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:43:12 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:43:12 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :5
+10 25, 2020 20:43:12 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :index.html
+10 25, 2020 20:43:12 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/other
+10 25, 2020 20:45:31 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:45:31 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :other/index.html
+10 25, 2020 20:45:31 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:45:31 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:45:31 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:45:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :5
+10 25, 2020 20:45:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :index.html
+10 25, 2020 20:45:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/other
+10 25, 2020 20:53:06 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 20:53:06 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 20:53:06 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 20:53:06 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 20:53:06 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 20:53:06 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 20:53:06 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 20:53:06 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 20:53:06 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 20:53:09 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:53:09 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :other/index.html
+10 25, 2020 20:53:09 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:53:09 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:53:09 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:53:09 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :5
+10 25, 2020 20:53:09 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :other/index.html
+10 25, 2020 20:53:09 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathFolder :/other
+10 25, 2020 20:53:36 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:53:36 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :other/index.html
+10 25, 2020 20:53:36 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:53:36 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:53:36 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:53:36 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :5
+10 25, 2020 20:53:36 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :other/index.html
+10 25, 2020 20:53:36 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathFolder :/other
+10 25, 2020 20:55:45 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 20:55:45 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 20:55:45 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 20:55:45 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 20:55:45 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 20:55:45 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 20:55:45 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 20:55:45 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 20:55:45 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 20:55:47 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 25, 2020 20:55:47 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 0 ms
+10 25, 2020 20:55:47 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 25, 2020 20:55:47 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 0 ms
+10 25, 2020 20:55:50 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:55:50 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :other/index.html
+10 25, 2020 20:55:50 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:55:50 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:55:50 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:55:50 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :5
+10 25, 2020 20:55:50 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :other/index.html
+10 25, 2020 20:55:50 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathFolder :/other
+10 25, 2020 20:55:50 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:55:50 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 20:55:50 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :favicon.ico
+10 25, 2020 20:55:50 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathFolder :/
+10 25, 2020 20:57:02 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 20:57:02 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 20:57:02 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 20:57:02 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 20:57:02 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 20:57:02 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 20:57:02 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 20:57:02 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 20:57:02 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 20:57:04 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 25, 2020 20:57:04 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 0 ms
+10 25, 2020 20:57:04 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 25, 2020 20:57:04 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 0 ms
+10 25, 2020 20:57:08 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:57:08 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :other/index.html
+10 25, 2020 20:57:08 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 20:57:08 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 20:57:08 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 20:57:08 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :5
+10 25, 2020 20:57:08 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :other/index.html
+10 25, 2020 20:57:08 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathFolder :/other
+10 25, 2020 20:57:08 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 20:57:08 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 20:57:08 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :favicon.ico
+10 25, 2020 20:57:08 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathFolder :/
+10 25, 2020 21:27:05 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 21:27:05 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 21:27:05 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 21:27:05 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 21:27:05 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 21:27:05 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 21:27:05 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 21:27:05 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 21:27:05 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 21:27:08 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 25, 2020 21:27:08 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 0 ms
+10 25, 2020 21:27:08 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 25, 2020 21:27:08 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 0 ms
+10 25, 2020 21:27:08 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 25, 2020 21:27:08 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 1 ms
+10 25, 2020 21:27:08 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 25, 2020 21:27:08 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 3 ms
+10 25, 2020 21:27:16 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 21:27:16 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :br/index.html
+10 25, 2020 21:27:16 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 21:27:16 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 21:27:16 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 21:27:16 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :2
+10 25, 2020 21:27:16 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :br/index.html
+10 25, 2020 21:27:16 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathFolder :/br
+10 25, 2020 21:27:26 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 21:27:26 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :b/index.html
+10 25, 2020 21:27:26 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 21:27:26 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 21:27:26 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 21:27:26 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :1
+10 25, 2020 21:27:26 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :b/index.html
+10 25, 2020 21:27:26 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathFolder :/b
+10 25, 2020 21:27:26 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 21:27:26 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 21:27:26 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :favicon.ico
+10 25, 2020 21:27:26 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathFolder :/
+10 25, 2020 22:15:29 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 22:15:29 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 22:15:29 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 22:15:29 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 22:15:29 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 22:15:29 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 22:15:29 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 22:15:29 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 22:15:29 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 22:15:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 25, 2020 22:15:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 1 ms
+10 25, 2020 22:15:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 25, 2020 22:15:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 0 ms
+10 25, 2020 22:15:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 25, 2020 22:15:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 0 ms
+10 25, 2020 22:15:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 25, 2020 22:15:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 2 ms
+10 25, 2020 22:15:39 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 22:15:39 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :b/index.html
+10 25, 2020 22:15:39 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 22:15:39 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 22:15:39 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 22:15:39 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :1
+10 25, 2020 22:15:39 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :b/index.html
+10 25, 2020 22:15:39 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :index.html
+10 25, 2020 22:15:39 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 22:15:39 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 22:15:39 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :favicon.ico
+10 25, 2020 22:15:39 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :null
+10 25, 2020 22:16:06 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 22:16:06 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :other/index.html
+10 25, 2020 22:16:06 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 22:16:06 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 22:16:06 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 22:16:06 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :5
+10 25, 2020 22:16:06 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :other/index.html
+10 25, 2020 22:16:06 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :index.html
+10 25, 2020 22:16:07 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 22:16:07 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 22:16:07 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :favicon.ico
+10 25, 2020 22:16:07 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :null
+10 25, 2020 22:52:01 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server version:		DiyTomcat/1.0.1
+10 25, 2020 22:52:01 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server built:		2020-07-08 10:20:22
+10 25, 2020 22:52:01 PM com.yl.diytomcat.core.Server logJVM
+INFO : Server number:		1.0.1
+10 25, 2020 22:52:01 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 22:52:01 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 22:52:01 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 22:52:01 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 22:52:01 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 22:52:01 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 22:52:04 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 25, 2020 22:52:04 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 1 ms
+10 25, 2020 22:52:04 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 25, 2020 22:52:04 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 1 ms
+10 25, 2020 22:52:04 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 25, 2020 22:52:04 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 1 ms
+10 25, 2020 22:52:04 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 25, 2020 22:52:04 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 1 ms
+10 25, 2020 22:52:07 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 22:52:07 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :other/index.html
+10 25, 2020 22:52:07 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 22:52:07 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 22:52:07 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 22:52:07 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :5
+10 25, 2020 22:52:07 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :other/index.html
+10 25, 2020 22:52:07 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :index.html
+10 25, 2020 22:52:08 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 22:52:08 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 22:52:08 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :favicon.ico
+10 25, 2020 22:52:08 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :null
+10 25, 2020 22:52:20 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 22:52:20 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :b/index.html
+10 25, 2020 22:52:20 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 22:52:20 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 22:52:20 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 22:52:20 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :1
+10 25, 2020 22:52:20 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :b/index.html
+10 25, 2020 22:52:20 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :index.html
+10 25, 2020 22:52:20 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 22:52:20 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 22:52:20 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :favicon.ico
+10 25, 2020 22:52:20 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :null
+10 25, 2020 23:05:24 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 25, 2020 23:05:24 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 25, 2020 23:05:24 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 25, 2020 23:05:24 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 23:05:24 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 23:05:24 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 23:05:24 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 23:05:24 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 23:05:24 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 23:05:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 25, 2020 23:05:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 0 ms
+10 25, 2020 23:05:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 25, 2020 23:05:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 0 ms
+10 25, 2020 23:05:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 25, 2020 23:05:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 0 ms
+10 25, 2020 23:05:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 25, 2020 23:05:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 5 ms
+10 25, 2020 23:05:27 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 23:05:27 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :b/index.html
+10 25, 2020 23:05:27 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 23:05:27 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 23:05:27 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 23:05:27 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :1
+10 25, 2020 23:05:27 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :b/index.html
+10 25, 2020 23:05:27 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :index.html
+10 25, 2020 23:05:27 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 23:05:27 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 23:05:27 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :favicon.ico
+10 25, 2020 23:05:27 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :null
+10 25, 2020 23:05:28 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 23:05:28 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :b/index.html
+10 25, 2020 23:05:28 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 23:05:28 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 23:05:28 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 23:05:28 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :1
+10 25, 2020 23:05:28 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :b/index.html
+10 25, 2020 23:05:28 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :index.html
+10 25, 2020 23:05:28 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 23:05:28 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 23:05:28 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :favicon.ico
+10 25, 2020 23:05:28 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :null
+10 25, 2020 23:05:44 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 23:05:44 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :other/index.html
+10 25, 2020 23:05:44 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 23:05:44 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 23:05:44 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 23:05:44 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :5
+10 25, 2020 23:05:44 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :other/index.html
+10 25, 2020 23:05:44 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :index.html
+10 25, 2020 23:05:44 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 23:05:44 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 23:05:44 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :favicon.ico
+10 25, 2020 23:05:44 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :null
+10 25, 2020 23:50:53 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 25, 2020 23:50:53 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 25, 2020 23:50:53 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 25, 2020 23:50:53 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 25, 2020 23:50:53 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 25, 2020 23:50:53 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 25, 2020 23:50:53 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 25, 2020 23:50:53 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 25, 2020 23:50:53 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 25, 2020 23:50:55 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 25, 2020 23:50:55 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 1 ms
+10 25, 2020 23:50:55 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 25, 2020 23:50:55 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 1 ms
+10 25, 2020 23:50:55 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 25, 2020 23:50:55 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 0 ms
+10 25, 2020 23:50:55 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 25, 2020 23:50:55 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 2 ms
+10 25, 2020 23:51:02 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 23:51:02 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :other/index.html
+10 25, 2020 23:51:02 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 23:51:02 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 23:51:02 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 23:51:02 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :5
+10 25, 2020 23:51:02 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :other/index.html
+10 25, 2020 23:51:02 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :index.html
+10 25, 2020 23:51:05 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 23:51:05 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 23:51:05 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :
+10 25, 2020 23:51:05 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :null
+10 25, 2020 23:51:11 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 23:51:11 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 23:51:11 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :favicon.ico
+10 25, 2020 23:51:11 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :null
+10 25, 2020 23:51:27 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 23:51:27 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 23:51:27 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :sdsdsds
+10 25, 2020 23:51:27 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :null
+10 25, 2020 23:52:02 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 23:52:02 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 23:52:02 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :sdsdsds
+10 25, 2020 23:52:02 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :null
+10 25, 2020 23:52:32 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 23:52:32 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :other/index.html
+10 25, 2020 23:52:32 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 25, 2020 23:52:32 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 25, 2020 23:52:32 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 25, 2020 23:52:32 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :5
+10 25, 2020 23:52:32 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :other/index.html
+10 25, 2020 23:52:32 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :index.html
+10 25, 2020 23:52:32 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 23:52:32 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 23:52:32 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :favicon.ico
+10 25, 2020 23:52:32 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :null
+10 25, 2020 23:52:50 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 23:52:50 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :5
+10 25, 2020 23:52:50 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :other/index111.html
+10 25, 2020 23:52:50 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :index111.html
+10 25, 2020 23:52:50 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 23:52:50 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 23:52:50 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :favicon.ico
+10 25, 2020 23:52:50 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :null
+10 25, 2020 23:52:57 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 23:52:57 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 23:52:57 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :index111.html
+10 25, 2020 23:52:57 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :null
+10 25, 2020 23:53:06 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 23:53:06 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :5
+10 25, 2020 23:53:06 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :other/index111.html
+10 25, 2020 23:53:06 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :index111.html
+10 25, 2020 23:53:06 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 25, 2020 23:53:06 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 25, 2020 23:53:06 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :favicon.ico
+10 25, 2020 23:53:06 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :null

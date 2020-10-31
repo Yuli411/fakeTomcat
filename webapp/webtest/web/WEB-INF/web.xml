@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+    <servlet>
+        <servlet-name>HelloServlet</servlet-name>
+        <servlet-class>com.yl.javaweb.HelloServlet</servlet-class>
+        <init-param>
+            <param-name>author</param-name>
+            <param-value>ylll(servlet)</param-value>
+        </init-param>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>HelloServlet</servlet-name>
+        <url-pattern>/hello</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-class>com.yl.javaweb.HeaderServlet</servlet-class>
+        <servlet-name>servletHeader</servlet-name>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>servletHeader</servlet-name>
+        <url-pattern>/header</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>setCookie</servlet-name>
+        <servlet-class>com.yl.diytomcat.servlet.SetCookieServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>setCookie</servlet-name>
+        <url-pattern>/setCookie</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>getCookie</servlet-name>
+        <servlet-class>com.yl.diytomcat.servlet.GetCookieServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>getCookie</servlet-name>
+        <url-pattern>/getCookie</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>setSession</servlet-name>
+        <servlet-class>com.yl.diytomcat.servlet.SetSessionServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>setSession</servlet-name>
+        <url-pattern>/setSession</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>jump</servlet-name>
+        <servlet-class>com.yl.diytomcat.servlet.JumpServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>jump</servlet-name>
+        <url-pattern>/jump</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>serverForward</servlet-name>
+        <servlet-class>com.yl.diytomcat.servlet.ServerForwardServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>serverForward</servlet-name>
+        <url-pattern>/forward</url-pattern>
+    </servlet-mapping>
+
+    <filter>
+        <filter-name>PfmFilter</filter-name>
+        <filter-class>com.yl.diytomcat.filter.PerformanceFilter</filter-class>
+        <init-param>
+            <param-name>author</param-name>
+            <param-value>how2j(filter)</param-value>
+        </init-param>
+        <init-param>
+            <param-name>site</param-name>
+            <param-value>http://how2j.cn(filter)</param-value>
+        </init-param>
+    </filter>
+    <filter-mapping>
+        <filter-name>PfmFilter</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+
+    <listener>
+        <listener-class>com.yl.diytomcat.listener.ContextListener</listener-class>
+    </listener>
+
+
+</web-app>

@@ -1,0 +1,2327 @@
+10 28, 2020 00:45:58 AM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 00:45:58 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 00:45:58 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 00:45:58 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 00:45:58 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 00:45:58 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 00:45:58 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 00:45:58 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 00:45:58 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 00:45:58 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 00:48:59 AM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 00:48:59 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 00:48:59 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 00:48:59 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 00:48:59 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 00:48:59 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 00:48:59 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 00:48:59 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 00:48:59 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 00:48:59 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 00:49:01 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 00:49:01 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 2 ms
+10 28, 2020 00:49:01 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 00:49:01 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 2 ms
+10 28, 2020 00:49:01 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 00:49:01 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 1 ms
+10 28, 2020 00:49:01 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 00:49:01 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 1 ms
+10 28, 2020 00:49:01 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 00:49:01 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 1 ms
+10 28, 2020 00:49:01 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 00:49:01 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 1 ms
+10 28, 2020 00:49:01 AM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 00:49:01 AM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 00:49:01 AM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2159 ms
+10 28, 2020 00:49:13 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 00:49:13 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :other/index.html
+10 28, 2020 00:49:13 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 28, 2020 00:49:13 AM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 28, 2020 00:49:13 AM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 28, 2020 00:49:13 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :5
+10 28, 2020 00:49:13 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/other
+10 28, 2020 00:49:13 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :other/index.html
+10 28, 2020 00:49:13 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :index.html
+10 28, 2020 00:49:13 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:null
+10 28, 2020 00:49:13 AM com.yl.diytomcat.core.Response createResonseHead
+INFO : head200 :HTTP/1.1 200 OK
+Content-Type: text/html
+
+
+10 28, 2020 00:50:37 AM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 00:50:37 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 00:50:37 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 00:50:37 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 00:50:37 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 00:50:37 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 00:50:37 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 00:50:37 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 00:50:37 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 00:50:37 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 00:50:40 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 00:50:40 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 5 ms
+10 28, 2020 00:50:40 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 00:50:40 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 2 ms
+10 28, 2020 00:50:40 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 00:50:40 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 4 ms
+10 28, 2020 00:50:40 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 00:50:40 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 2 ms
+10 28, 2020 00:50:40 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 00:50:40 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 1 ms
+10 28, 2020 00:50:40 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 00:50:40 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 1 ms
+10 28, 2020 00:50:40 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 00:50:40 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 1 ms
+10 28, 2020 00:50:40 AM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 00:50:40 AM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 00:50:40 AM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2244 ms
+10 28, 2020 00:51:33 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 00:51:33 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 00:51:33 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 00:51:33 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 00:51:33 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 00:51:33 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:null
+10 28, 2020 00:52:19 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 00:52:19 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 00:52:19 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 00:52:19 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 00:52:19 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 00:52:19 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:null
+10 28, 2020 00:52:20 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 00:52:20 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 00:52:20 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 00:52:20 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 00:52:20 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 00:52:20 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:null
+10 28, 2020 00:53:56 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 00:53:56 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 00:53:56 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 00:53:56 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/web/hello
+10 28, 2020 00:53:56 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :web/hello
+10 28, 2020 00:53:56 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:null
+10 28, 2020 01:00:34 AM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 01:00:34 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 01:00:34 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 01:00:34 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 01:00:34 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 01:00:34 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 01:00:34 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 01:00:34 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 01:00:34 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 01:00:34 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 01:00:36 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 01:00:36 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 10 ms
+10 28, 2020 01:00:36 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 01:00:36 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 0 ms
+10 28, 2020 01:00:36 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 01:00:36 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 0 ms
+10 28, 2020 01:00:36 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 01:00:36 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 0 ms
+10 28, 2020 01:00:36 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 01:00:36 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 0 ms
+10 28, 2020 01:00:36 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 01:00:36 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 0 ms
+10 28, 2020 01:00:36 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 01:00:36 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 0 ms
+10 28, 2020 01:00:36 AM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 01:00:36 AM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 01:00:36 AM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2231 ms
+10 28, 2020 01:00:46 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:00:46 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:00:46 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:00:46 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:00:46 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:00:46 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:null
+10 28, 2020 01:03:21 AM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 01:03:21 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 01:03:21 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 01:03:21 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 01:03:21 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 01:03:21 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 01:03:21 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 01:03:21 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 01:03:21 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 01:03:21 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 01:03:23 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 01:03:23 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 0 ms
+10 28, 2020 01:03:23 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 01:03:23 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 0 ms
+10 28, 2020 01:03:23 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 01:03:23 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 0 ms
+10 28, 2020 01:03:23 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 01:03:23 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 5 ms
+10 28, 2020 01:03:23 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 01:03:23 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 0 ms
+10 28, 2020 01:03:23 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 01:03:23 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 0 ms
+10 28, 2020 01:03:23 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 01:03:23 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 0 ms
+10 28, 2020 01:03:23 AM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 01:03:23 AM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 01:03:23 AM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2200 ms
+10 28, 2020 01:03:28 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:03:28 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:03:28 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:03:28 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:03:28 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:03:28 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:03:28 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:03:28 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:03:28 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:03:28 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:03:28 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:03:28 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:03:28 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:03:28 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:03:28 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:03:28 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:03:28 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:03:28 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:03:29 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:03:29 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:03:29 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:03:29 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:03:29 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:03:29 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:03:29 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:03:29 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:03:29 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:03:29 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:03:29 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:03:29 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:03:29 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:03:29 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:03:29 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:03:29 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:03:29 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:03:29 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:03:34 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:03:34 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:03:34 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:03:34 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:03:34 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:03:34 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:03:34 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:03:34 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:03:34 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:03:34 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:03:34 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:03:34 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:03:34 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:03:34 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:03:34 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:03:34 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:03:34 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:03:34 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:04:04 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:04:04 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:04:04 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:04:04 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:04:04 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:04:04 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:04:04 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:04:04 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:04:04 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:04:04 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:04:04 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:04:04 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:04:04 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:04:04 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:04:04 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:04:04 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:04:04 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:04:04 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:05:27 AM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 01:05:27 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 01:05:27 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 01:05:27 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 01:05:27 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 01:05:27 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 01:05:27 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 01:05:27 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 01:05:27 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 01:05:27 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 01:05:29 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 01:05:29 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 0 ms
+10 28, 2020 01:05:29 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 01:05:29 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 0 ms
+10 28, 2020 01:05:29 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 01:05:29 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 0 ms
+10 28, 2020 01:05:29 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 01:05:29 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 5 ms
+10 28, 2020 01:05:29 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 01:05:29 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 0 ms
+10 28, 2020 01:05:29 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 01:05:29 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 0 ms
+10 28, 2020 01:05:29 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 01:05:29 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 0 ms
+10 28, 2020 01:05:29 AM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 01:05:29 AM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 01:05:29 AM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2200 ms
+10 28, 2020 01:05:33 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:05:33 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:05:33 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:05:33 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:05:33 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:05:33 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:05:33 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:05:33 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:05:33 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:05:33 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:05:33 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:05:33 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:05:33 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:05:33 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:05:33 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:05:33 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:05:33 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:05:33 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:05:56 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:05:56 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:05:56 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:05:56 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:05:56 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:05:56 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:05:56 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:05:56 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:05:56 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:05:56 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:05:56 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:05:56 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:05:56 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:05:56 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:05:56 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:05:56 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:05:56 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:05:56 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:08:14 AM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 01:08:14 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 01:08:14 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 01:08:14 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 01:08:14 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 01:08:14 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 01:08:14 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 01:08:14 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 01:08:14 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 01:08:14 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 01:08:16 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 01:08:16 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 8 ms
+10 28, 2020 01:08:16 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 01:08:16 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 2 ms
+10 28, 2020 01:08:16 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 01:08:16 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 0 ms
+10 28, 2020 01:08:16 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 01:08:16 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 0 ms
+10 28, 2020 01:08:16 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 01:08:16 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 4 ms
+10 28, 2020 01:08:16 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 01:08:16 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 0 ms
+10 28, 2020 01:08:16 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 01:08:16 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 0 ms
+10 28, 2020 01:08:16 AM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 01:08:16 AM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 01:08:16 AM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2224 ms
+10 28, 2020 01:08:19 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:08:19 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:08:19 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:08:19 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:08:19 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:08:19 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:10:23 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:10:23 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:10:23 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:10:23 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:10:23 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:10:23 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:10:28 AM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 01:10:28 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 01:10:28 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 01:10:28 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 01:10:28 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 01:10:28 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 01:10:28 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 01:10:28 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 01:10:28 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 01:10:28 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 01:16:30 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 01:16:30 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 360621 ms
+10 28, 2020 01:16:30 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 01:16:30 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 0 ms
+10 28, 2020 01:16:30 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 01:16:30 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 0 ms
+10 28, 2020 01:16:30 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 01:16:30 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 0 ms
+10 28, 2020 01:16:30 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 01:16:30 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 0 ms
+10 28, 2020 01:16:30 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 01:16:30 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 9 ms
+10 28, 2020 01:16:30 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 01:16:30 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 0 ms
+10 28, 2020 01:16:30 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\webtest
+10 28, 2020 01:16:30 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\webtest has finished in 0 ms
+10 28, 2020 01:16:30 AM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 01:16:30 AM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 01:16:30 AM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 362825 ms
+10 28, 2020 01:17:51 AM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 01:17:52 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 01:17:52 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 01:17:52 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 01:17:52 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 01:17:52 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 01:17:52 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 01:17:52 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 01:17:52 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 01:17:52 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 01:17:54 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 01:17:54 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 2 ms
+10 28, 2020 01:17:54 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 01:17:54 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 1 ms
+10 28, 2020 01:17:54 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 01:17:54 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 1 ms
+10 28, 2020 01:17:54 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 01:17:54 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 2 ms
+10 28, 2020 01:17:54 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 01:17:54 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 2 ms
+10 28, 2020 01:17:54 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 01:17:54 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 0 ms
+10 28, 2020 01:17:54 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 01:17:54 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 1 ms
+10 28, 2020 01:17:54 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\webtest
+10 28, 2020 01:17:54 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\webtest has finished in 1 ms
+10 28, 2020 01:17:54 AM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 01:17:54 AM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 01:17:54 AM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2182 ms
+10 28, 2020 01:17:58 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:17:58 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:17:58 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:17:58 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:17:58 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:17:58 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:17:58 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:17:58 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:17:58 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:17:58 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:17:58 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:17:58 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:17:58 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:17:58 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:17:58 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:17:58 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:17:58 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:17:58 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:19:35 AM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 01:19:35 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 01:19:35 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 01:19:35 AM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 01:19:35 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 01:19:35 AM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 01:19:35 AM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 01:19:35 AM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 01:19:35 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 01:19:35 AM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 01:19:37 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 01:19:37 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 0 ms
+10 28, 2020 01:19:37 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 01:19:37 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 10 ms
+10 28, 2020 01:19:37 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 01:19:37 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 0 ms
+10 28, 2020 01:19:37 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 01:19:37 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 0 ms
+10 28, 2020 01:19:37 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 01:19:37 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 5 ms
+10 28, 2020 01:19:37 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 01:19:37 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 0 ms
+10 28, 2020 01:19:37 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 01:19:37 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 0 ms
+10 28, 2020 01:19:37 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\webtest
+10 28, 2020 01:19:37 AM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\webtest has finished in 5 ms
+10 28, 2020 01:19:37 AM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 01:19:37 AM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 01:19:37 AM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2197 ms
+10 28, 2020 01:19:41 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:19:41 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:19:41 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:19:41 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:19:41 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:19:41 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:19:41 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:19:41 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:19:41 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:19:41 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:19:41 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:19:41 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 01:19:41 AM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 01:19:41 AM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 01:19:41 AM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 01:19:41 AM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 01:19:41 AM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 01:19:41 AM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 22:51:13 PM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 22:51:13 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 22:51:13 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 22:51:13 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 22:51:13 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 22:51:13 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 22:51:13 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 22:51:13 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 22:51:13 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 22:51:13 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 22:51:15 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 22:51:15 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 3 ms
+10 28, 2020 22:51:15 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 22:51:15 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 1 ms
+10 28, 2020 22:51:15 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 22:51:15 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 1 ms
+10 28, 2020 22:51:15 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 22:51:15 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 1 ms
+10 28, 2020 22:51:15 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 22:51:15 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 1 ms
+10 28, 2020 22:51:15 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 22:51:15 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 1 ms
+10 28, 2020 22:51:15 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 22:51:15 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 1 ms
+10 28, 2020 22:51:15 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\webtest
+10 28, 2020 22:51:15 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\webtest has finished in 1 ms
+10 28, 2020 22:51:15 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 22:51:15 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18166]
+10 28, 2020 22:51:15 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18186]
+10 28, 2020 22:51:15 PM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 22:51:15 PM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2187 ms
+10 28, 2020 22:51:58 PM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 22:51:58 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 22:51:58 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 22:51:58 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 22:51:58 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 22:51:58 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 22:51:58 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 22:51:58 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 22:51:58 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 22:51:58 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 22:52:00 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 22:52:00 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 3 ms
+10 28, 2020 22:52:00 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 22:52:00 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 1 ms
+10 28, 2020 22:52:00 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 22:52:00 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 1 ms
+10 28, 2020 22:52:00 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 22:52:00 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 1 ms
+10 28, 2020 22:52:00 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 22:52:00 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 4 ms
+10 28, 2020 22:52:00 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 22:52:00 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 1 ms
+10 28, 2020 22:52:00 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 22:52:00 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 1 ms
+10 28, 2020 22:52:00 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\webtest
+10 28, 2020 22:52:00 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\webtest has finished in 1 ms
+10 28, 2020 22:52:00 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 22:52:00 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18166]
+10 28, 2020 22:52:00 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18186]
+10 28, 2020 22:52:00 PM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 22:52:00 PM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2156 ms
+10 28, 2020 22:52:04 PM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 22:52:04 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 22:52:04 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 22:52:04 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 22:52:04 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 22:52:04 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 22:52:04 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 22:52:04 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 22:52:04 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 22:52:04 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 22:52:07 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 22:52:07 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 3 ms
+10 28, 2020 22:52:07 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 22:52:07 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 2 ms
+10 28, 2020 22:52:07 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 22:52:07 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 1 ms
+10 28, 2020 22:52:07 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 22:52:07 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 1 ms
+10 28, 2020 22:52:07 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 22:52:07 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 1 ms
+10 28, 2020 22:52:07 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 22:52:07 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 1 ms
+10 28, 2020 22:52:07 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 22:52:07 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 1 ms
+10 28, 2020 22:52:07 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\webtest
+10 28, 2020 22:52:07 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\webtest has finished in 1 ms
+10 28, 2020 22:52:07 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 22:53:11 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18166]
+10 28, 2020 22:53:25 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18186]
+10 28, 2020 22:53:25 PM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 22:53:25 PM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 80509 ms
+10 28, 2020 22:53:28 PM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 22:53:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 22:53:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 22:53:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 22:53:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 22:53:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 22:53:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 22:53:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 22:53:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 22:53:28 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 22:53:30 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 22:53:30 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 4 ms
+10 28, 2020 22:53:30 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 22:53:30 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 1 ms
+10 28, 2020 22:53:30 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 22:53:30 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 1 ms
+10 28, 2020 22:53:30 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 22:53:30 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 1 ms
+10 28, 2020 22:53:30 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 22:53:30 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 2 ms
+10 28, 2020 22:53:30 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 22:53:30 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 2 ms
+10 28, 2020 22:53:30 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 22:53:30 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 1 ms
+10 28, 2020 22:53:30 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\webtest
+10 28, 2020 22:53:30 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\webtest has finished in 1 ms
+10 28, 2020 22:53:30 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 22:55:17 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18166]
+10 28, 2020 22:55:17 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18186]
+10 28, 2020 22:55:17 PM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 22:55:17 PM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 108862 ms
+10 28, 2020 22:56:24 PM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 22:56:24 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 22:56:24 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 22:56:24 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 22:56:24 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 22:56:24 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 22:56:24 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 22:56:24 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 22:56:24 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 22:56:24 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 22:56:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 22:56:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 5 ms
+10 28, 2020 22:56:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 22:56:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 2 ms
+10 28, 2020 22:56:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 22:56:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 2 ms
+10 28, 2020 22:56:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 22:56:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 1 ms
+10 28, 2020 22:56:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 22:56:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 1 ms
+10 28, 2020 22:56:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 22:56:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 2 ms
+10 28, 2020 22:56:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 22:56:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 1 ms
+10 28, 2020 22:56:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\webtest
+10 28, 2020 22:56:26 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\webtest has finished in 2 ms
+10 28, 2020 22:58:16 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 22:58:16 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18166]
+10 28, 2020 22:58:16 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18186]
+10 28, 2020 22:58:16 PM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 22:58:16 PM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 111985 ms
+10 28, 2020 23:01:14 PM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 23:01:15 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 23:01:15 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 23:01:15 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 23:01:15 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 23:01:15 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 23:01:15 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 23:01:15 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 23:01:15 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 23:01:15 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 23:01:17 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 23:01:17 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 4 ms
+10 28, 2020 23:01:17 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 23:01:17 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 1 ms
+10 28, 2020 23:01:17 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 23:01:17 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 1 ms
+10 28, 2020 23:01:17 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 23:01:17 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 1 ms
+10 28, 2020 23:01:17 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 23:01:17 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 1 ms
+10 28, 2020 23:01:17 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 23:01:17 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 1 ms
+10 28, 2020 23:01:17 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 23:01:17 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 1 ms
+10 28, 2020 23:01:17 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\webtest
+10 28, 2020 23:01:17 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\webtest has finished in 1 ms
+10 28, 2020 23:01:17 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 23:01:17 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18166]
+10 28, 2020 23:01:17 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18186]
+10 28, 2020 23:01:17 PM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 23:01:17 PM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2137 ms
+10 28, 2020 23:01:25 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:01:25 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 28, 2020 23:01:25 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/other
+10 28, 2020 23:01:25 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :other
+10 28, 2020 23:01:25 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :index.html
+10 28, 2020 23:01:25 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:null
+10 28, 2020 23:01:25 PM com.yl.diytomcat.core.Response createResonseHead
+INFO : head200 :HTTP/1.1 200 OK
+Content-Type: text/html
+
+
+10 28, 2020 23:01:25 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:01:25 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :-1
+10 28, 2020 23:01:25 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/
+10 28, 2020 23:01:25 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :favicon.ico
+10 28, 2020 23:01:25 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :favicon.ico
+10 28, 2020 23:01:25 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:null
+10 28, 2020 23:01:35 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:01:35 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : uri :other/index.html
+10 28, 2020 23:01:35 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : argument :aa=dd
+10 28, 2020 23:01:35 PM com.yl.diytomcat.core.Request convertToMap
+INFO : key :aa
+10 28, 2020 23:01:35 PM com.yl.diytomcat.core.Request convertToMap
+INFO : value :dd
+10 28, 2020 23:01:35 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :5
+10 28, 2020 23:01:35 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/other
+10 28, 2020 23:01:35 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :other/index.html
+10 28, 2020 23:01:35 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :index.html
+10 28, 2020 23:01:35 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:null
+10 28, 2020 23:01:35 PM com.yl.diytomcat.core.Response createResonseHead
+INFO : head200 :HTTP/1.1 200 OK
+Content-Type: text/html
+
+
+10 28, 2020 23:14:29 PM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 23:14:29 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 23:14:29 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 23:14:29 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 23:14:29 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 23:14:29 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 23:14:29 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 23:14:29 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 23:14:29 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 23:14:29 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 23:14:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 23:14:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 6 ms
+10 28, 2020 23:14:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 23:14:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 3 ms
+10 28, 2020 23:14:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 23:14:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 2 ms
+10 28, 2020 23:14:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 23:14:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 1 ms
+10 28, 2020 23:14:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 23:14:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 1 ms
+10 28, 2020 23:14:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 23:14:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 1 ms
+10 28, 2020 23:14:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 23:14:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 2 ms
+10 28, 2020 23:14:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\webtest
+10 28, 2020 23:14:31 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\webtest has finished in 1 ms
+10 28, 2020 23:14:31 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 23:14:31 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18166]
+10 28, 2020 23:14:31 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18186]
+10 28, 2020 23:14:31 PM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 23:14:31 PM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2186 ms
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:14:47 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:14:53 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:14:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:14:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:14:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:14:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:14:53 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:14:53 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:14:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:14:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:14:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:14:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:14:53 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:14:53 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:14:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:14:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:14:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:14:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:14:53 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:28:22 PM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 23:28:22 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 23:28:22 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 23:28:22 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 23:28:22 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 23:28:22 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 23:28:22 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 23:28:22 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 23:28:22 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 23:28:22 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 23:28:24 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 23:28:24 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 6 ms
+10 28, 2020 23:28:24 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 23:28:24 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 3 ms
+10 28, 2020 23:28:24 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 23:28:24 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 1 ms
+10 28, 2020 23:28:24 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 23:28:24 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 3 ms
+10 28, 2020 23:28:24 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 23:28:24 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 2 ms
+10 28, 2020 23:28:24 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 23:28:24 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 2 ms
+10 28, 2020 23:28:24 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 23:28:24 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 1 ms
+10 28, 2020 23:28:24 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\webtest
+10 28, 2020 23:28:24 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\webtest has finished in 2 ms
+10 28, 2020 23:28:24 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 23:28:24 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18166]
+10 28, 2020 23:28:24 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18186]
+10 28, 2020 23:28:24 PM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 23:28:24 PM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2213 ms
+10 28, 2020 23:28:31 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:28:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:28:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:28:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:28:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:28:31 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:28:31 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:28:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:28:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:28:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:28:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:28:31 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:28:31 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:28:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:28:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:28:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:28:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:28:31 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:29:31 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:29:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:29:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:29:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:29:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:29:31 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:29:31 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:29:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:29:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:29:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:29:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:29:31 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:29:31 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:29:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:29:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:29:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:29:31 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:29:31 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:29:56 PM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 23:29:56 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 23:29:56 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 23:29:56 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 23:29:56 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 23:29:56 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 23:29:56 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 23:29:56 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 23:29:56 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 23:29:56 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 23:29:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 23:29:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 3 ms
+10 28, 2020 23:29:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 23:29:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 1 ms
+10 28, 2020 23:29:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 23:29:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 1 ms
+10 28, 2020 23:29:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 23:29:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 1 ms
+10 28, 2020 23:29:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 23:29:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 1 ms
+10 28, 2020 23:29:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 23:29:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 1 ms
+10 28, 2020 23:29:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 23:29:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 0 ms
+10 28, 2020 23:29:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\webtest
+10 28, 2020 23:29:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\webtest has finished in 1 ms
+10 28, 2020 23:29:58 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 23:29:58 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18166]
+10 28, 2020 23:29:58 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18186]
+10 28, 2020 23:29:58 PM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 23:29:58 PM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2155 ms
+10 28, 2020 23:30:01 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:30:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:30:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:30:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:30:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:30:01 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:30:01 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:30:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:30:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:30:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:30:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:30:01 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:30:01 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:30:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:30:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:30:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:30:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:30:01 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:34:17 PM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 23:34:17 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 23:34:17 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 23:34:17 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 23:34:17 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 23:34:17 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 23:34:17 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 23:34:17 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 23:34:17 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 23:34:17 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 23:34:19 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 23:34:19 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 3 ms
+10 28, 2020 23:34:19 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 23:34:19 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 3 ms
+10 28, 2020 23:34:19 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 23:34:19 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 1 ms
+10 28, 2020 23:34:19 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 23:34:19 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 1 ms
+10 28, 2020 23:34:19 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 23:34:19 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 1 ms
+10 28, 2020 23:34:19 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 23:34:19 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 1 ms
+10 28, 2020 23:34:19 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 23:34:19 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 2 ms
+10 28, 2020 23:34:19 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\webtest
+10 28, 2020 23:34:19 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\webtest has finished in 2 ms
+10 28, 2020 23:34:19 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 23:34:19 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18166]
+10 28, 2020 23:34:19 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18186]
+10 28, 2020 23:34:19 PM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 23:34:19 PM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2152 ms
+10 28, 2020 23:34:23 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:34:23 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:34:23 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:34:23 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:34:23 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:34:23 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:34:23 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:34:23 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:34:23 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:34:23 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:34:23 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:34:23 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:34:23 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:34:23 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:34:23 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:34:23 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:34:23 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:34:23 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:35:55 PM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 23:35:55 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 23:35:55 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 23:35:55 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 23:35:55 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 23:35:55 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 23:35:55 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 23:35:55 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 23:35:55 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 23:35:55 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 23:35:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 23:35:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 4 ms
+10 28, 2020 23:35:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 23:35:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 3 ms
+10 28, 2020 23:35:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 23:35:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 1 ms
+10 28, 2020 23:35:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 23:35:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 1 ms
+10 28, 2020 23:35:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 23:35:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 1 ms
+10 28, 2020 23:35:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 23:35:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 1 ms
+10 28, 2020 23:35:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 23:35:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 1 ms
+10 28, 2020 23:35:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\webtest
+10 28, 2020 23:35:58 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\webtest has finished in 2 ms
+10 28, 2020 23:35:58 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 23:35:58 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18166]
+10 28, 2020 23:35:58 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18186]
+10 28, 2020 23:35:58 PM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 23:35:58 PM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2186 ms
+10 28, 2020 23:35:59 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:35:59 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:35:59 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:35:59 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:35:59 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:35:59 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:35:59 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:35:59 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:35:59 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:35:59 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:35:59 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:35:59 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:35:59 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:35:59 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:35:59 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:35:59 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:35:59 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:35:59 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:37:51 PM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 23:37:51 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 23:37:51 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 23:37:51 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 23:37:51 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 23:37:51 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 23:37:51 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 23:37:51 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 23:37:51 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 23:37:51 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 23:37:53 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 23:37:53 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 6 ms
+10 28, 2020 23:37:53 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 23:37:53 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 2 ms
+10 28, 2020 23:37:53 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 23:37:53 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 2 ms
+10 28, 2020 23:37:53 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 23:37:53 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 1 ms
+10 28, 2020 23:37:53 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 23:37:53 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 2 ms
+10 28, 2020 23:37:53 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 23:37:53 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 1 ms
+10 28, 2020 23:37:53 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 23:37:53 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 1 ms
+10 28, 2020 23:37:53 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\webtest
+10 28, 2020 23:37:53 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\webtest has finished in 2 ms
+10 28, 2020 23:37:53 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 23:37:53 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18166]
+10 28, 2020 23:37:53 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18186]
+10 28, 2020 23:37:53 PM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 23:37:53 PM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2216 ms
+10 28, 2020 23:37:56 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:37:56 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:37:56 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:37:56 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:37:56 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:37:56 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:37:56 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:37:56 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:37:56 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:37:56 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:37:56 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:37:56 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:37:56 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:37:56 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:37:56 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:37:56 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:37:56 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:37:56 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:44:48 PM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 23:44:48 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 23:44:48 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 23:44:48 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 23:44:48 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 23:44:48 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 23:44:48 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 23:44:48 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 23:44:48 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 23:44:48 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 23:44:50 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 23:44:50 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 5 ms
+10 28, 2020 23:44:50 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 23:44:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 2 ms
+10 28, 2020 23:44:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 23:44:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 1 ms
+10 28, 2020 23:44:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 23:44:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 2 ms
+10 28, 2020 23:44:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 23:44:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 1 ms
+10 28, 2020 23:44:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 23:44:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 1 ms
+10 28, 2020 23:44:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 23:44:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 1 ms
+10 28, 2020 23:44:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\webtest
+10 28, 2020 23:44:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\webtest has finished in 1 ms
+10 28, 2020 23:44:51 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 23:44:51 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18166]
+10 28, 2020 23:44:51 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18186]
+10 28, 2020 23:44:51 PM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 23:44:51 PM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2179 ms
+10 28, 2020 23:45:01 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:45:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:45:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:45:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:45:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:45:01 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:45:01 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:45:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:45:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:45:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:45:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:45:01 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:45:01 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:45:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:45:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:45:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:45:01 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:45:01 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:47:08 PM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 23:47:08 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 23:47:08 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 23:47:08 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 23:47:08 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 23:47:08 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 23:47:08 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 23:47:08 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 23:47:08 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 23:47:08 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 23:47:10 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 23:47:10 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 11 ms
+10 28, 2020 23:47:10 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 23:47:10 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 2 ms
+10 28, 2020 23:47:10 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 23:47:10 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 2 ms
+10 28, 2020 23:47:10 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 23:47:10 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 2 ms
+10 28, 2020 23:47:10 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 23:47:10 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 4 ms
+10 28, 2020 23:47:10 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 23:47:10 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 3 ms
+10 28, 2020 23:47:10 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 23:47:10 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 2 ms
+10 28, 2020 23:47:10 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\webtest
+10 28, 2020 23:47:10 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\webtest has finished in 3 ms
+10 28, 2020 23:47:10 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 23:47:10 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18166]
+10 28, 2020 23:47:10 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18186]
+10 28, 2020 23:47:10 PM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 23:47:10 PM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2344 ms
+10 28, 2020 23:47:14 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:47:14 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:47:14 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:47:14 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:47:14 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:47:14 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:47:14 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:47:14 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:47:14 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:47:14 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:47:14 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:47:14 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:47:14 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:47:14 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:47:14 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:47:14 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:47:14 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:47:14 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:50:49 PM com.yl.diytomcat.core.Bootstrap main
+INFO : Classloader:sun.misc.Launcher$AppClassLoader@18b4aac2
+10 28, 2020 23:50:49 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service version:		DiyTomcat/1.0.1
+10 28, 2020 23:50:49 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service built:		2020-07-08 10:20:22
+10 28, 2020 23:50:49 PM com.yl.diytomcat.core.Server logJVM
+INFO : Service number:		1.0.1
+10 28, 2020 23:50:49 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Name	:		Windows 10
+10 28, 2020 23:50:49 PM com.yl.diytomcat.core.Server logJVM
+INFO : OS Version:		10.0
+10 28, 2020 23:50:49 PM com.yl.diytomcat.core.Server logJVM
+INFO : Architecture:		amd64
+10 28, 2020 23:50:49 PM com.yl.diytomcat.core.Server logJVM
+INFO : Java Home:		F:\develop-tool\jdk1.8.0_231\jre
+10 28, 2020 23:50:49 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Version:		1.8.0_231-b11
+10 28, 2020 23:50:49 PM com.yl.diytomcat.core.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+10 28, 2020 23:50:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/b
+10 28, 2020 23:50:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/b has finished in 4 ms
+10 28, 2020 23:50:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/diytomcat/j2ee
+10 28, 2020 23:50:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/diytomcat/j2ee has finished in 3 ms
+10 28, 2020 23:50:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:/workplace-idea/webtest
+10 28, 2020 23:50:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:/workplace-idea/webtest has finished in 2 ms
+10 28, 2020 23:50:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\b
+10 28, 2020 23:50:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\b has finished in 1 ms
+10 28, 2020 23:50:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\j2ee
+10 28, 2020 23:50:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\j2ee has finished in 1 ms
+10 28, 2020 23:50:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\other
+10 28, 2020 23:50:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\other has finished in 1 ms
+10 28, 2020 23:50:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\root
+10 28, 2020 23:50:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\root has finished in 1 ms
+10 28, 2020 23:50:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deploying web application directory F:\workplace-idea\diytomcat\webapp\webtest
+10 28, 2020 23:50:51 PM com.yl.diytomcat.catalina.WebContext <init>
+INFO : Deployment of web application directory F:\workplace-idea\diytomcat\webapp\webtest has finished in 1 ms
+10 28, 2020 23:50:51 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18188]
+10 28, 2020 23:50:51 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18166]
+10 28, 2020 23:50:51 PM com.yl.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18186]
+10 28, 2020 23:50:51 PM com.yl.diytomcat.core.Server start
+INFO : Starting ProtocolHandler [http-bio-18188]
+10 28, 2020 23:50:51 PM com.yl.diytomcat.core.Server start
+INFO : Initialization processed in 2228 ms
+10 28, 2020 23:50:53 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:50:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:50:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:50:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:50:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:50:53 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:50:53 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:50:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:50:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:50:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:50:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:50:53 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
+10 28, 2020 23:50:53 PM com.yl.diytomcat.core.Request parseHttpRequest
+INFO : start to parse request
+10 28, 2020 23:50:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : index :7
+10 28, 2020 23:50:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : path :/webtest
+10 28, 2020 23:50:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : uri :webtest/hello
+10 28, 2020 23:50:53 PM com.yl.diytomcat.core.Request parseContext
+INFO : pathResource :hello
+10 28, 2020 23:50:53 PM com.yl.diytomcat.core.HttpProcessor$1 run
+INFO : servletClassName:com.yl.javaweb.HelloServlet
